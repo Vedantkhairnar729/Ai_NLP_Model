@@ -10,7 +10,7 @@
 - Dependencies: `requirements.txt`  
 - Install helper: `setup.py`
 
----
+--
 
 ## Table of Contents
 1. [Overview](#overview)  
